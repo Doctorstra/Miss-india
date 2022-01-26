@@ -8,7 +8,7 @@ Press the below button to Fast deploy on Heroku
 
 ### Credits
 
-•[![Github](https://GitHub.com/button.svg)](https://GitHub.com/Doctorstra)
+•[![Doctorstra](https://GitHub.com/button.svg)](https://GitHub.com/Doctorstra?template=https://GitHub.com/Doctorstra)
 
 ## Profile
 
