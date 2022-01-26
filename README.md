@@ -6,9 +6,9 @@ Press the below button to Fast deploy on Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Doctorstra/Miss-india)
 
-### Credits
+## Credits 
+* [![Doctorstra-Devs](https://img.shields.io/static/v1?label=Doctorstra&message=devs&color=critical)](https://telegram.dog/DoctorstraDevs)
 
-•[![Doctorstra](https://www.GitHub.com/deploy/button.svg)](https://GitHub.com/deploy?template=https://GitHub.com/Doctorstra)
 
 ## Profile
 
